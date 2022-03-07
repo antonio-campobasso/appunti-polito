@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "materie/1b - Programmazione di Sistema/2.1. Allocazione della memoria.md",
             "mode": "source",
             "source": false
           }
@@ -53,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "69c40fd10efdcf3a",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "materie/1b - Programmazione di Sistema/2.1. Allocazione della memoria.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +90,15 @@
   },
   "active": "e8ab5b7ed42ec4a7",
   "lastOpenFiles": [
+    "materie/1b - Programmazione di Sistema/2.1. Allocazione della memoria.md",
+    "materie/1b - Programmazione di Sistema/0. Indice.md",
+    "materie/1b - Programmazione di Sistema/1.2. Memoria Viruale.md",
+    "materie/1b - Programmazione di Sistema/1.1. Gestione della Memoria.md",
     "README.md",
     "materie/1b - Ingegneria del Software/1. Sviluppo del Software.md",
     "materie/1b - Ingegneria del Software/test.md",
     "Landing.md",
     "materie/1b - Formal languages and Compilers/2. Regular languages.md",
-    "materie/1b - Formal languages and Compilers/1. Definitions.md",
-    "schemi/1. Definitions_Su 06_03 - 12_03.excalidraw.md",
-    "materie/1b - Formal languages and Compilers/0. Indice.md",
-    "materie/1b - Applicaioni Web 1/1. Javascript.md",
-    "materie/1b - Applicaioni Web 1/Untitled.md"
+    "materie/1b - Formal languages and Compilers/1. Definitions.md"
   ]
 }
