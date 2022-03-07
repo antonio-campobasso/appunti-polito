@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "materie/1b - Ingegneria del Software/1. Sviluppo del Software.md",
+            "file": "README.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "materie/1b - Ingegneria del Software/1. Sviluppo del Software.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "e8ab5b7ed42ec4a7",
   "lastOpenFiles": [
+    "README.md",
     "materie/1b - Ingegneria del Software/1. Sviluppo del Software.md",
     "materie/1b - Ingegneria del Software/test.md",
     "Landing.md",
@@ -97,7 +98,6 @@
     "schemi/1. Definitions_Su 06_03 - 12_03.excalidraw.md",
     "materie/1b - Formal languages and Compilers/0. Indice.md",
     "materie/1b - Applicaioni Web 1/1. Javascript.md",
-    "materie/1b - Applicaioni Web 1/Untitled.md",
-    "materie/1b - Programmazione di Sistema/2. Memoria Viruale.md"
+    "materie/1b - Applicaioni Web 1/Untitled.md"
   ]
 }
