@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "3980c22633386acb",
+    "type": "split",
+    "children": [
+      {
+        "id": "e8ab5b7ed42ec4a7",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "materie/1b - Ingegneria del Software/1. Sviluppo del Software.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fe7ab4cd5f2327b7",
+    "type": "split",
+    "children": [
+      {
+        "id": "f34122fd88dcf3fb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1308ddadb6b5f504",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "63b7b8a0c9d752b3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "#todo",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "69c40fd10efdcf3a",
+    "type": "split",
+    "children": [
+      {
+        "id": "28c09f4675cbcadd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3c1e7ef9a823d2f5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "materie/1b - Ingegneria del Software/1. Sviluppo del Software.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "e8ab5b7ed42ec4a7",
+  "lastOpenFiles": [
+    "materie/1b - Ingegneria del Software/1. Sviluppo del Software.md",
+    "materie/1b - Ingegneria del Software/test.md",
+    "Landing.md",
+    "materie/1b - Formal languages and Compilers/2. Regular languages.md",
+    "materie/1b - Formal languages and Compilers/1. Definitions.md",
+    "schemi/1. Definitions_Su 06_03 - 12_03.excalidraw.md",
+    "materie/1b - Formal languages and Compilers/0. Indice.md",
+    "materie/1b - Applicaioni Web 1/1. Javascript.md",
+    "materie/1b - Applicaioni Web 1/Untitled.md",
+    "materie/1b - Programmazione di Sistema/2. Memoria Viruale.md"
+  ]
+}

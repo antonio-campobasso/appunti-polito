@@ -1,0 +1,19 @@
+{
+  "alwaysUpdateLinks": true,
+  "promptDelete": false,
+  "attachmentFolderPath": "schemi",
+  "autoPairBrackets": false,
+  "fileSortOrder": "alphabetical",
+  "newFileLocation": "current",
+  "autoPairMarkdown": false,
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "foldHeading": true,
+  "foldIndent": true,
+  "legacyEditor": false,
+  "livePreview": true
+}
