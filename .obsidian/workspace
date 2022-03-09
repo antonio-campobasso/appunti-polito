@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "e8ab5b7ed42ec4a7",
+        "id": "6cede5790a2a99f8",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "materie/1b - Ingegneria del Software/e1. Home banking.md",
+            "file": "materie/1b - Ingegneria del Software/3. Metamodelli.md",
             "mode": "source",
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "materie/1b - Ingegneria del Software/e1. Home banking.md",
+                "file": "materie/1b - Ingegneria del Software/3. Metamodelli.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,17 +88,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e8ab5b7ed42ec4a7",
+  "active": "6cede5790a2a99f8",
   "lastOpenFiles": [
+    "materie/1b - Ingegneria del Software/3. Metamodelli.md",
     "materie/1b - Ingegneria del Software/e1. Home banking.md",
-    "materie/1b - Ingegneria del Software/0. Indice.md",
     "materie/1b - Ingegneria del Software/1. Sviluppo del Software.md",
+    "materie/1b - Ingegneria del Software/0. Indice.md",
     "materie/1b - Formal languages and Compilers/2. Regular languages.md",
     "materie/1b - Formal languages and Compilers/e1. Theory questions.md",
     "materie/1b - Formal languages and Compilers/1. Definitions.md",
     "materie/1b - Programmazione di Sistema/2.2 Rust.md",
     "materie/1b - Programmazione di Sistema/a2. Linking e Loading.md",
-    "materie/1b - Programmazione di Sistema/2.1. Allocazione della memoria.md",
-    "materie/1b - Applicaioni Web 1/2. Programmazione asincrona.md"
+    "materie/1b - Programmazione di Sistema/2.1. Allocazione della memoria.md"
   ]
 }

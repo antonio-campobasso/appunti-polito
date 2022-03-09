@@ -1,6 +1,6 @@
 {
-  "baseFontSize": 15,
+  "baseFontSize": 16,
   "translucency": false,
-  "cssTheme": "Obsidian gruvbox",
+  "cssTheme": "Atom",
   "theme": "obsidian"
 }
