@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "materie/1b - Ingegneria del Software/3. Metamodelli.md",
+            "file": "README.md",
             "mode": "source",
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "materie/1b - Ingegneria del Software/3. Metamodelli.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,6 +90,7 @@
   },
   "active": "6cede5790a2a99f8",
   "lastOpenFiles": [
+    "README.md",
     "materie/1b - Ingegneria del Software/3. Metamodelli.md",
     "materie/1b - Ingegneria del Software/e1. Home banking.md",
     "materie/1b - Ingegneria del Software/1. Sviluppo del Software.md",
@@ -98,7 +99,6 @@
     "materie/1b - Formal languages and Compilers/e1. Theory questions.md",
     "materie/1b - Formal languages and Compilers/1. Definitions.md",
     "materie/1b - Programmazione di Sistema/2.2 Rust.md",
-    "materie/1b - Programmazione di Sistema/a2. Linking e Loading.md",
-    "materie/1b - Programmazione di Sistema/2.1. Allocazione della memoria.md"
+    "materie/1b - Programmazione di Sistema/a2. Linking e Loading.md"
   ]
 }
