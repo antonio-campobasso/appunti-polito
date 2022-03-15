@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "materie/1b - Programmazione di Sistema/1.2. Memoria Viruale.md",
+            "file": "materie/1b - Applicaioni Web 1/2. Programmazione asincrona.md",
             "mode": "source",
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "materie/1b - Programmazione di Sistema/1.2. Memoria Viruale.md",
+                "file": "materie/1b - Applicaioni Web 1/2. Programmazione asincrona.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,6 +90,7 @@
   },
   "active": "2e0ccf3d57c58573",
   "lastOpenFiles": [
+    "materie/1b - Applicaioni Web 1/2. Programmazione asincrona.md",
     "materie/1b - Programmazione di Sistema/1.2. Memoria Viruale.md",
     "materie/1b - Programmazione di Sistema/2.1. Allocazione della memoria.md",
     "materie/1b - Ingegneria del Software/2. Model-driven development.md",
@@ -98,7 +99,6 @@
     "materie/1b - Ingegneria del Software/e1. Home banking.md",
     "materie/1b - Formal languages and Compilers/2. Regular languages.md",
     "materie/1b - Formal languages and Compilers/e1. Theory questions.md",
-    "materie/1b - Programmazione di Sistema/2.3 Possesso.md",
-    "materie/1b - Programmazione di Sistema/2.2 Rust.md"
+    "materie/1b - Programmazione di Sistema/2.3 Possesso.md"
   ]
 }
