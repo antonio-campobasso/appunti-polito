@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "materie/1b - Programmazione di Sistema/1.2. Memoria Viruale.md",
+            "file": "materie/1b - Programmazione di Sistema/1.3 OS161.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#todo",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -53,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "69c40fd10efdcf3a",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "materie/1b - Programmazione di Sistema/1.2. Memoria Viruale.md",
+                "file": "materie/1b - Programmazione di Sistema/1.3 OS161.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,15 +89,15 @@
   },
   "active": "2e0ccf3d57c58573",
   "lastOpenFiles": [
+    "materie/1b - Programmazione di Sistema/1.3 OS161.md",
+    "materie/1b - Programmazione di Sistema/a1. Richiami di Sistemi Operativi.md",
     "materie/1b - Programmazione di Sistema/1.2. Memoria Viruale.md",
-    "materie/1b - Applicaioni Web 1/2. Programmazione asincrona.md",
-    "materie/1b - Programmazione di Sistema/2.1. Allocazione della memoria.md",
-    "materie/1b - Ingegneria del Software/2. Model-driven development.md",
+    "materie/1b - Ingegneria del Software/5. Reti di Petri.md",
+    "materie/1b - Ingegneria del Software/4. Pattern.md",
+    "materie/1b - Programmazione di Sistema/b1. clap.md",
+    "materie/1b - Programmazione di Sistema/0. Indice.md",
+    "materie/1b - Programmazione di Sistema/2.2 Rust.md",
     "materie/1b - Ingegneria del Software/3. Metamodelli.md",
-    "materie/1b - Ingegneria del Software/e2. Domande di lavoro.md",
-    "materie/1b - Ingegneria del Software/e1. Home banking.md",
-    "materie/1b - Formal languages and Compilers/2. Regular languages.md",
-    "materie/1b - Formal languages and Compilers/e1. Theory questions.md",
-    "materie/1b - Programmazione di Sistema/2.3 Possesso.md"
+    "materie/1b - Applicaioni Web 1/3. Web Architecture.md"
   ]
 }
