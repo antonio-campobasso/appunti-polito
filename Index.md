@@ -16,4 +16,6 @@
 
 
 # Da compleare
-- [ ] Revisione di appunti di Sistemi Operativi
+- [ ] Lezione 5/4 (da metà), 7/4, 12/4 flc
+- [ ] Lezioni webapp
+- [ ] Lezione 13/4 Softeng
